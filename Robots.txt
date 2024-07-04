@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gtvth.github.io/tuanaituathaenuncutep11/sitemap.xml
